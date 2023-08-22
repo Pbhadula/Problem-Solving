@@ -1,4 +1,4 @@
-import java.awt.*;
+package com.practice;
 
 abstract class Shape{
     private String color;

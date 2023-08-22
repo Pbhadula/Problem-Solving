@@ -1,15 +1,15 @@
-
+package com.practice;
 
 class Animal {
     String sound(){
-        return "Animal Sound";
+        return "com.practice.Animal Sound";
     }
 }
 
 class Dog extends Animal{
     public String name;
     String sound(){
-        return "Dog barks";
+        return "com.practice.Dog barks";
     }
 
     String sound(String name){

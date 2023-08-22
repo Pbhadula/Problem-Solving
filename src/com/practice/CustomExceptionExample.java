@@ -1,3 +1,5 @@
+package com.practice;
+
 public class CustomExceptionExample {
     public static void main(String[] args) {
         try {

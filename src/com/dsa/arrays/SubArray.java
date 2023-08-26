@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SubArray {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        System.out.println("Enter no of elements in first array :");
+        System.out.println("Enter no of elements in array :");
         int n = s.nextInt();
         System.out.println("Enter array element :");
         int[] arr = new int[n];
